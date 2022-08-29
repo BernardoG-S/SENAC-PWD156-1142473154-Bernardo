@@ -1,5 +1,0 @@
-git init
-git remote add origin https://github.com/BernardoG-S/SENAC-PWD156-1142473154-Bernardo
-git commit -m "primeiro commit
-git push origin master
-git add
